@@ -1,0 +1,1 @@
+["end1", true, true] call BIS_fnc_endMission;
